@@ -695,3 +695,21 @@ color: #0b5ed7; }
 /* / End Default Navbar */
 
 
+/* scroll bar personalizated */
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #333;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #0041b9;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #0059ff;
+}
+
