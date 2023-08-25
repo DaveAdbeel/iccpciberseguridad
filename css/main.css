@@ -283,7 +283,7 @@ strong {
   z-index: -1;
   background-image: url("../img/bg/hero-1-bg.webp");  
   inset: 0;
-  filter: blur(4px);
+  background-position: center;
 }
   #header-style-1 .header-title {
     color: #fff; }
